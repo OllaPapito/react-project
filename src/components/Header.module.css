@@ -1,0 +1,41 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 60px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.logo .red {
+    color: #CC2A49;
+    font-family: 'Russo One', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    margin-left: 10px;
+}
+
+.logo .br {
+    color:#0bdc84;
+    font-family: 'Russo One', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.logo .br2 {
+    color: #ffeb3b;
+    font-family: 'Russo One', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+}
+
